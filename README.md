@@ -11,7 +11,7 @@
 ## Members  
 | 😁 | NAME | HOBBY |
 |------|------|--------|
-|  |   [전종원](https://github.com/jeonjw25/)  |   🕹게임, 🏀농구, 💪헬스, 🍰맛있는거먹기   |
+| ![종원](https://user-images.githubusercontent.com/54730375/123045239-a1552880-d435-11eb-8fa4-2b152523b43f.PNG) |   [전종원](https://github.com/jeonjw25/)  |   🕹게임, 🏀농구, 💪헬스, 🍰맛있는거먹기   |
 | ![영진](https://user-images.githubusercontent.com/54730375/123044837-2b50c180-d435-11eb-9896-8bce5bc5bd89.PNG)  |   [백영진](https://searching-fundamental.tistory.com/)  |       |
  
 <br/>
